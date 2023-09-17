@@ -1,0 +1,15 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.tabooapps.scribe",
+            "sha256_cert_fingerprints": [
+                "57:00:61:7E:B6:BC:CE:26:13:FA:6D:38:96:AB:F1:78:43:47:F5:2C:08:84:CA:D1:EC:A6:2A:29:66:ED:4F:50",
+                "E2:E8:AE:1E:A3:0B:C5:0F:20:88:F6:02:DC:91:98:92:80:5E:ED:A8:FE:6C:09:91:08:52:6F:E6:D9:EE:28:30"
+            ]
+        }
+    }
+]
