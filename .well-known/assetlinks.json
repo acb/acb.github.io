@@ -11,5 +11,18 @@
                 "E2:E8:AE:1E:A3:0B:C5:0F:20:88:F6:02:DC:91:98:92:80:5E:ED:A8:FE:6C:09:91:08:52:6F:E6:D9:EE:28:30"
             ]
         }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.tabooapps.scribeato",
+            "sha256_cert_fingerprints": [
+                "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C",
+                "BC:CD:9C:BF:D1:DC:3A:C6:FB:F2:02:3F:96:18:5E:56:C2:13:EC:FB:30:0B:59:60:FC:74:FC:66:85:94:4F:F0"
+            ]
+        }
     }
 ]
