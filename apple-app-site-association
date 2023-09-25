@@ -4,7 +4,11 @@
         "details": [
             {
                 "appID": "2GYUL3DLCH.com.tabooapps.scribe",
-                "paths": [ "*" ]
+                "paths": [ "/login/scribekdm" ]
+            },
+            {
+                "appID": "2GYUL3DLCH.com.tabooapps.scribeato",
+                "paths": [ "/login/scribeato" ]
             }
         ]
     }
